@@ -1,1 +1,1 @@
-echo "hello world"
+CMD.EXE
